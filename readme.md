@@ -103,7 +103,7 @@ Para poder utilizar esta herramienta, sigue los siguientes pasos:
     - Los pdfs de fichas estarán en una carpeta `<codigo_ciclo>_fichas_seguimiento`.
     - Los pdfs de evaluación estarán en una carpeta `<codigo_ciclo>_eval_tutor_empresa`.
 
-    Si hubiera algun error, actualiza de nuevo el fichero Excel y re-ejecuta la aplicación. Los documentos generados se sobreescriben.
+    Si hubiera algun error, actualiza de nuevo el fichero Excel y re-ejecuta la aplicación. Los documentos generados se sobrescriben.
 
 ## Tecnologías utilizadas
 
